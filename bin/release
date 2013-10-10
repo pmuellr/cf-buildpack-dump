@@ -1,0 +1,5 @@
+#!/usr/bin/env bash
+# bin/release <build-dir>
+
+echo "config_vars:"
+echo "  PATH: bin:/usr/local/bin:/usr/bin:/bin"
